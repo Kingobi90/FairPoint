@@ -1,13 +1,13 @@
-# My App – Screens and Features
+# FairPoint: Think Sharper, Argue Smarter
 
-Welcome to My App. This app is designed to [briefly describe what the app does].
+FairPoint is built to help people have better conversations, make stronger arguments, and think more clearly. Instead of letting bias or emotions take over, it helps users break down discussions logically and stay focused on what really matters. Whether it’s for debates, negotiations, or everyday discussions, FairPoint keeps things structured and balanced.
 
 ## Features
-- Onboarding Screens to guide new users.
-- Chatbot Interface for seamless interaction.
-- Analysis Page to visualize insights.
-- Data Collection Module for efficient data handling.
-
+- Bias Detection & Reduction – Helps spot cognitive biases like anchoring and recency bias to keep discussions fair.
+- Argument Breakdown – Organizes conversations into claims, premises, and counterpoints for better clarity.
+- Logical Fallacy Alerts – Identifies weak reasoning so arguments stay solid.
+- Graphical Argument Mapping – Visually lays out discussions to highlight connections and gaps in logic.
+- Structured Thinking Tools – Provides step-by-step guidance for forming strong, well-reasoned arguments.
 ## App Screenshots
 
 ### Onboarding Screens
