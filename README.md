@@ -11,27 +11,27 @@ Welcome to My App. This app is designed to [briefly describe what the app does].
 ## App Screenshots
 
 ### Onboarding Screens
-![Onboarding 1](https://raw.githubusercontent.com/your-username/your-repo/main/Onboarding%201.png)
-![Onboarding 2](https://raw.githubusercontent.com/your-username/your-repo/main/Onboarding%202.png)
-![Onboarding 3](https://raw.githubusercontent.com/your-username/your-repo/main/Onboarding%203.png)
-![Onboarding 4](https://raw.githubusercontent.com/your-username/your-repo/main/Onboarding%204.png)
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/Onboarding%201.png" width="250">
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/Onboarding%202.png" width="250">
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/Onboarding%203.png" width="250">
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/Onboarding%204.png" width="250">
 
 ### Loading Screen
-![Loading](https://raw.githubusercontent.com/your-username/your-repo/main/Load@2x.png)
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/Load@2x.png" width="250">
 
 ### Chatbot Page
-![Chatbot](https://raw.githubusercontent.com/your-username/your-repo/main/chatting%20bot%20page.png)
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/chatting%20bot%20page.png" width="250">
 
 ### Data Collection Page
-![Data Collection](https://raw.githubusercontent.com/your-username/your-repo/main/data%20collection.png)
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/data%20collection.png" width="250">
 
 ### Analysis Page
-![Analysis](https://raw.githubusercontent.com/your-username/your-repo/main/analysis%20page.png)
+<img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/analysis%20page.png" width="250">
 
 ## Installation & Setup
 To run this project locally:
 ```bash
-git clone https://github.com/your-username/your-repo.git
-cd your-repo
+git clone https://github.com/kingobi90/FairPoint.git
+cd FairPoint
 npm install
 npm start
