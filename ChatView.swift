@@ -1,9 +1,9 @@
 import SwiftUI
 
-struct AnalysisView: View {
+struct ChatView: View {
     var body: some View {
         VStack {
-            Text("Analysis View")
+            Text("Chat with AI")
                 .font(.title)
         }
     }
