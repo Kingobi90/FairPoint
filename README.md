@@ -26,11 +26,3 @@ FairPoint is built to help people have better conversations, make stronger argum
 ### Analysis Page  
 <img src="https://raw.githubusercontent.com/kingobi90/FairPoint/main/analysis%20page.png" width="250">  
 
-## Installation & Setup  
-To run this project locally:  
-
-```bash
-git clone https://github.com/kingobi90/FairPoint.git
-cd FairPoint
-npm install
-npm start
